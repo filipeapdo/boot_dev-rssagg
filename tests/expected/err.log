@@ -1,0 +1,10 @@
+HTTP/1.1 400 Bad Request
+Content-Type: application/json
+Vary: Origin
+Date: Tue, 09 Apr 2024 20:01:11 GMT
+Content-Length: 32
+
+{"error":"Something went wrong"}
+
+Elapsed time: 0.002271473s
+
